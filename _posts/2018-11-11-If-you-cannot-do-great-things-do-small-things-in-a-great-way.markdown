@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  A journey of a thousand leagues begins beneath one’s feet
+title:  If you cannot do great things, do small things in a great way
 description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-09 15:01:35 +0300
-image:  '/images/06.jpg'
-tags:   [travel, story, rest]
+date:   2018-11-11 15:01:35 +0300
+image:  '/images/04.jpg'
+tags:   [lifestyle, rest, notes]
 ---
 Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
 
-![Work]({{site.baseurl}}/images/06-1.jpg)
-*Photo by [Tegan Mierle](https://unsplash.com/photos/ioyEITUD2G8) on [Unsplash](https://unsplash.com/)*
+![Work]({{site.baseurl}}/images/04-1.jpg)
+*Photo by [Guy Kawasaki](https://unsplash.com/@guykawasaki) on [Unsplash](https://unsplash.com/)*
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
 
@@ -19,8 +19,8 @@ In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum qui
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/06-2.jpg" alt="Technology">
-    <img src="/images/06-3.jpg" alt="Technology">
+    <img src="/images/04-2.jpg" alt="Rest">
+    <img src="/images/04-3.jpg" alt="Rest">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
